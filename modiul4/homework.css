@@ -1,0 +1,18 @@
+
+.name{
+    color: rgb(11, 11, 11);
+    margin: 20px;
+    padding: 10px;
+    border: ;
+}
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.fahim{
+    font-weight: bold;
+}

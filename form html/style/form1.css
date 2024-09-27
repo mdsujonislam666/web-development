@@ -1,0 +1,11 @@
+nav > ul> li{
+    display: inline;
+    margin-right: 15px;
+}
+nav li > a{
+    text-decoration: none;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
