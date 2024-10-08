@@ -1,0 +1,24 @@
+section{
+    border: 1px solid tomato;
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.image-container{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+.image-container img{
+    width: 100%;
+}
+.image-container div{
+    width: 50%;
+}
+@media screen and (max-width: 576px){
+    .image-container{
+        flex-direction: column-reverse;
+    }
+    .image-container div{
+        width: 100%;
+    }
+}

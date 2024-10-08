@@ -1,0 +1,209 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 50px;
+}
+header{
+    background-image: url("images/font.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-image{
+    background-position:bottom left;
+}
+.naveber{
+    display: flex;
+    align-items: center;
+    
+}
+.span-text{
+    color: tomato;
+}
+nav ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+ul li{
+    list-style: none;
+    display: flex;
+    font-size: 25px;
+    font-weight: 700px;
+}
+nav ul{
+    gap: 30px;
+}
+.nav-name{
+    font-size: 80px;
+    font-weight: 700px;
+    margin: 30px;
+}
+.button-nav{
+    font-size: 30px;
+    border: 0px;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    margin-right:40px;
+}
+.home-container{
+    display: flex;
+}
+.home-heading{
+    font-size: 40px;
+    margin-left: 70%;
+    margin-top: 20%;
+}
+.home-pragraph{
+    font-size: 20px;
+    margin-left: 70%;
+    margin-bottom: 20px;
+    padding-right: 40px;
+    margin-top: 40px;
+}
+.pry-button{
+    font-size: 30px;
+    border: 0px;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    margin-left:85%;
+    margin-bottom: 35px;
+}
+.body-container{
+    background-color: aquamarine;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-image: url("images/futer2.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body-doucment{
+    display: flex;
+}
+.body-title{
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-left: 250px;
+}
+.body-head{
+    font-size: 35px;
+    margin-top: 50px;
+    font-weight: 700px;
+}
+.body-pragraph{
+    font-size: 25px;
+    font-weight: 700px;
+    padding-top: 25px;
+    
+}
+.body-input{
+    font-size: 20px;
+    display: block;
+}
+.box-title{
+    font-size: 60px;
+    font-weight: 700px;
+    margin-left: 45%;
+}
+.main-box{
+    display: flex;
+    gap: 25px;
+    margin-bottom: 80px;
+}
+.box-body{
+    background-image: url("images/mid2.jpg");
+    padding: 25px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 5px 30px 0px;
+}
+.mini-box-description{
+    background-image: url("images/time2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.mini-box-title{
+    text-align: left;
+    font-size: 40px;
+    color: white;
+    padding-right: 70px;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+.mini-box-button{
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 700px;
+    border: 0px;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    margin-left:10%;
+    margin-bottom: 35px;
+}
+.footer-description{
+    display: flex;
+    background-color: black;
+    margin-top: 40px;
+    color: white;
+}
+
+.footer-info1{
+    font-size: 20px;
+    padding-left: 20%;
+    padding-bottom: 30px;
+    margin-right: 20%;
+}
+.footer-title{
+    font-size: 40px;
+    font-weight: 700px;
+    margin-top: 50px;
+}
+.footer-pharagraph, .footer-email{
+    font-size: 20px;
+}
+.footer-info2{
+    padding-right: 20%;
+    margin-right:80% ;
+    margin-top: 60px;
+}
+.contact input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    margin-right: 210px;
+    padding: 18px 30px;
+    color: #757575;
+    border-radius: 5px;
+    background: #fff;
+    border: 0px;
+    width: 100%;
+}
+.footer-title2{
+    font-size: 40px;
+    font-weight: 700px;
+    margin-top: 0px;
+}
+.footer-button{
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 700px;
+    border: 0px;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    margin-left:0%;
+    margin-bottom: 35px;
+}
